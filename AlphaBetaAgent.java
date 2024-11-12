@@ -59,8 +59,7 @@ public class AlphaBetaAgent
 		public int getMaxDepth() { return this.maxDepth; }
 		
 
-		/**
-		 * TODO: implement me!
+		/*
 		 * This method should perform alpha-beta search from the current node
 		 * @param node the node to perform the search on (i.e. the root of the subtree)
 		 * @param depth how far in the tree we are rn
@@ -133,7 +132,7 @@ public class AlphaBetaAgent
 	private static final long serialVersionUID = -8325987205183244708L;
 
 	/**
-	 * TODO: please set me! This is what we will use for your submission...you get to pick your own depth param!
+	 * This is what we will use for your submission...you get to pick your own depth param!
 	 * You can also change this is the xml file, however if you don't provide one in the xml file we use this default value
 	 */
 	private static final int DEFAULTMAXDEPTH = 3;
